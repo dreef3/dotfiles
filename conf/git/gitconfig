@@ -1,0 +1,7 @@
+[core]
+	excludesfile = /home/aermakov/.gitignore_global
+[user]
+	email = dreef3@gmail.com
+	name = Andrey Ermakov
+[push]
+	default = simple

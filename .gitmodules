@@ -1,0 +1,13 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+[submodule "awesome-terminal-fonts"]
+	path = awesome-terminal-fonts
+	url = git@github.com:gabrielelana/awesome-terminal-fonts.git
+
+[submodule "prezto"]
+	path = prezto
+	url = git@github.com:dreef3/prezto.git
+[submodule "nanorc"]
+	path = nanorc
+	url = git@github.com:nanorc/nanorc.git
