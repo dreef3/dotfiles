@@ -19,3 +19,7 @@
     - [git submodule update --init --recursive, Installing submodules]
     - [./awesome-terminal-fonts/install.sh, Installing terminal fonts]
     - [cd ./nanorc && make install, Installing Nano syntax highlighting]
+    - command: curl https://raw.githubusercontent.com/creationix/nvm/v0.24.0/install.sh | PROFILE="" bash
+    -
+     command: zsh -c "source ~/.nvm/nvm.sh && nvm install unstable"
+     stderr: true
