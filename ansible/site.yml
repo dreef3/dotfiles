@@ -1,0 +1,4 @@
+---
+- hosts: local
+  roles:
+    - { role: smola.java, sudo: yes, java_packages: 'oracle-java8-installer' }
