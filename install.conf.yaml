@@ -1,6 +1,8 @@
 - clean: ['~']
 
 - link:
+    # Davmail
+    ~/.davmail.properties: conf/davmail.properties
     # Git
     ~/.gitignore_global: conf/git/gitignore_global
     ~/.gitconfig: conf/git/gitconfig
